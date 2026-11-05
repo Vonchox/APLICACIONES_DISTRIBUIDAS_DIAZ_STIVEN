@@ -10,8 +10,8 @@ Tres ejercicios de Python que simulan operaciones de un cine.
 
 ## Requisitos
 
-- Docker con Docker Compose. En Windows, iniciar Docker Desktop con contenedores Linux.
-- Tener el repositorio descargado o clonado. No es necesario instalar Python.
+- Docker con Docker Compose, en Windows, iniciar Docker Desktop con contenedores Linux.
+- Tener el repositorio descargado o clonado, NO es necesario instalar Python.
 
 ## Ejecución
 
